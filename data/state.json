@@ -125,6 +125,42 @@
       "path": "medium/dota2-senate.cpp",
       "timestamp": "1786272273",
       "syncedAt": "2026-08-09T11:20:09.022Z"
+    },
+    "2100331641": {
+      "title": "Dota2 Senate",
+      "titleSlug": "dota2-senate",
+      "language": "cpp",
+      "difficulty": "Medium",
+      "path": "medium/dota2-senate.cpp",
+      "timestamp": "1786278581",
+      "syncedAt": "2026-08-09T13:25:11.414Z"
+    },
+    "2100347940": {
+      "title": "Reveal Cards In Increasing Order",
+      "titleSlug": "reveal-cards-in-increasing-order",
+      "language": "cpp",
+      "difficulty": "Medium",
+      "path": "medium/reveal-cards-in-increasing-order.cpp",
+      "timestamp": "1786279616",
+      "syncedAt": "2026-08-09T13:25:11.696Z"
+    },
+    "2100365075": {
+      "title": "Number of Students Unable to Eat Lunch",
+      "titleSlug": "number-of-students-unable-to-eat-lunch",
+      "language": "cpp",
+      "difficulty": "Easy",
+      "path": "easy/number-of-students-unable-to-eat-lunch.cpp",
+      "timestamp": "1786280668",
+      "syncedAt": "2026-08-09T13:25:12.052Z"
+    },
+    "2100373144": {
+      "title": "Time Needed to Buy Tickets",
+      "titleSlug": "time-needed-to-buy-tickets",
+      "language": "cpp",
+      "difficulty": "Easy",
+      "path": "easy/time-needed-to-buy-tickets.cpp",
+      "timestamp": "1786281158",
+      "syncedAt": "2026-08-09T13:25:12.384Z"
     }
   }
 }
