@@ -1,0 +1,51 @@
+name: LeetCode → GitHub Sync
+
+on:
+  schedule:
+    # GitHub schedules are best-effort. This runs approximately every 5 minutes.
+    - cron: "*/5 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Sync accepted LeetCode submissions
+        env:
+          LEETCODE_SESSION: ${{ secrets.LEETCODE_SESSION }}
+          LEETCODE_USERNAME: ${{ vars.LEETCODE_USERNAME }}
+          LEETCODE_SUBMISSION_LIMIT: "20"
+        run: npm run sync
+
+      - name: Commit and push new solutions
+        run: |
+          git config user.name "leetcode-sync[bot]"
+          git config user.email "leetcode-sync[bot]@users.noreply.github.com"
+
+          git add easy medium hard data/state.json
+
+          if git diff --cached --quiet; then
+            echo "No new accepted submissions."
+            exit 0
+          fi
+
+          git commit -m "chore: sync accepted LeetCode solutions"
+          git push
