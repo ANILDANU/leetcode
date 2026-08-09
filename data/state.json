@@ -161,6 +161,24 @@
       "path": "easy/time-needed-to-buy-tickets.cpp",
       "timestamp": "1786281158",
       "syncedAt": "2026-08-09T13:25:12.384Z"
+    },
+    "2100392548": {
+      "title": "Open the Lock",
+      "titleSlug": "open-the-lock",
+      "language": "cpp",
+      "difficulty": "Medium",
+      "path": "medium/open-the-lock.cpp",
+      "timestamp": "1786282293",
+      "syncedAt": "2026-08-09T14:16:45.661Z"
+    },
+    "2100396576": {
+      "title": "Open the Lock",
+      "titleSlug": "open-the-lock",
+      "language": "cpp",
+      "difficulty": "Medium",
+      "path": "medium/open-the-lock.cpp",
+      "timestamp": "1786282527",
+      "syncedAt": "2026-08-09T14:16:59.033Z"
     }
   }
 }
