@@ -25,10 +25,7 @@ jobs:
           cache: ""
 
       - name: Install dependencies
-        run: |
-          unset NPM_CONFIG_USERCONFIG
-          unset NPM_CONFIG_GLOBALCONFIG
-          npm ci --registry=https://registry.npmjs.org/
+        run: npm ci
 
       - name: Sync accepted LeetCode submissions
         env:
