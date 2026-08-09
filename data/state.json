@@ -1,0 +1,130 @@
+{
+  "processedSubmissions": {
+    "2087580584": {
+      "title": "Move Zeroes",
+      "titleSlug": "move-zeroes",
+      "language": "cpp",
+      "difficulty": "Easy",
+      "path": "easy/move-zeroes.cpp",
+      "timestamp": "1785419981",
+      "syncedAt": "2026-08-09T11:20:05.011Z"
+    },
+    "2087584476": {
+      "title": "Move Zeroes",
+      "titleSlug": "move-zeroes",
+      "language": "cpp",
+      "difficulty": "Easy",
+      "path": "easy/move-zeroes.cpp",
+      "timestamp": "1785420168",
+      "syncedAt": "2026-08-09T11:20:05.274Z"
+    },
+    "2087619342": {
+      "title": "Partition Labels",
+      "titleSlug": "partition-labels",
+      "language": "cpp",
+      "difficulty": "Medium",
+      "path": "medium/partition-labels.cpp",
+      "timestamp": "1785421800",
+      "syncedAt": "2026-08-09T11:20:05.525Z"
+    },
+    "2087658869": {
+      "title": "Jump Game II",
+      "titleSlug": "jump-game-ii",
+      "language": "cpp",
+      "difficulty": "Medium",
+      "path": "medium/jump-game-ii.cpp",
+      "timestamp": "1785423724",
+      "syncedAt": "2026-08-09T11:20:05.991Z"
+    },
+    "2087689683": {
+      "title": "Remove Duplicates from Sorted Array II",
+      "titleSlug": "remove-duplicates-from-sorted-array-ii",
+      "language": "cpp",
+      "difficulty": "Medium",
+      "path": "medium/remove-duplicates-from-sorted-array-ii.cpp",
+      "timestamp": "1785425265",
+      "syncedAt": "2026-08-09T11:20:06.206Z"
+    },
+    "2091646703": {
+      "title": "Jump Game VI",
+      "titleSlug": "jump-game-vi",
+      "language": "cpp",
+      "difficulty": "Medium",
+      "path": "medium/jump-game-vi.cpp",
+      "timestamp": "1785689672",
+      "syncedAt": "2026-08-09T11:20:06.576Z"
+    },
+    "2091686906": {
+      "title": "Find the Most Competitive Subsequence",
+      "titleSlug": "find-the-most-competitive-subsequence",
+      "language": "cpp",
+      "difficulty": "Medium",
+      "path": "medium/find-the-most-competitive-subsequence.cpp",
+      "timestamp": "1785691404",
+      "syncedAt": "2026-08-09T11:20:06.860Z"
+    },
+    "2091755527": {
+      "title": "Maximum Number of Robots Within Budget",
+      "titleSlug": "maximum-number-of-robots-within-budget",
+      "language": "cpp",
+      "difficulty": "Hard",
+      "path": "hard/maximum-number-of-robots-within-budget.cpp",
+      "timestamp": "1785694426",
+      "syncedAt": "2026-08-09T11:20:07.156Z"
+    },
+    "2091822600": {
+      "title": "Remove Duplicates from Sorted Array",
+      "titleSlug": "remove-duplicates-from-sorted-array",
+      "language": "cpp",
+      "difficulty": "Easy",
+      "path": "easy/remove-duplicates-from-sorted-array.cpp",
+      "timestamp": "1785698459",
+      "syncedAt": "2026-08-09T11:20:07.606Z"
+    },
+    "2091826424": {
+      "title": "Valid Parentheses",
+      "titleSlug": "valid-parentheses",
+      "language": "cpp",
+      "difficulty": "Easy",
+      "path": "easy/valid-parentheses.cpp",
+      "timestamp": "1785698766",
+      "syncedAt": "2026-08-09T11:20:07.825Z"
+    },
+    "2093231597": {
+      "title": "My Calendar I",
+      "titleSlug": "my-calendar-i",
+      "language": "cpp",
+      "difficulty": "Medium",
+      "path": "medium/my-calendar-i.cpp",
+      "timestamp": "1785794329",
+      "syncedAt": "2026-08-09T11:20:08.360Z"
+    },
+    "2097095932": {
+      "title": "Daily Temperatures",
+      "titleSlug": "daily-temperatures",
+      "language": "cpp",
+      "difficulty": "Medium",
+      "path": "medium/daily-temperatures.cpp",
+      "timestamp": "1786038815",
+      "syncedAt": "2026-08-09T11:20:08.574Z"
+    },
+    "2097190818": {
+      "title": "Product of Array Except Self",
+      "titleSlug": "product-of-array-except-self",
+      "language": "cpp",
+      "difficulty": "Medium",
+      "path": "medium/product-of-array-except-self.cpp",
+      "timestamp": "1786043160",
+      "syncedAt": "2026-08-09T11:20:08.789Z"
+    },
+    "2100232725": {
+      "title": "Dota2 Senate",
+      "titleSlug": "dota2-senate",
+      "language": "cpp",
+      "difficulty": "Medium",
+      "path": "medium/dota2-senate.cpp",
+      "timestamp": "1786272273",
+      "syncedAt": "2026-08-09T11:20:09.022Z"
+    }
+  }
+}
