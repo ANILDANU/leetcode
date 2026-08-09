@@ -179,6 +179,15 @@
       "path": "medium/open-the-lock.cpp",
       "timestamp": "1786282527",
       "syncedAt": "2026-08-09T14:16:59.033Z"
+    },
+    "2100569961": {
+      "title": "Nearest Exit from Entrance in Maze",
+      "titleSlug": "nearest-exit-from-entrance-in-maze",
+      "language": "cpp",
+      "difficulty": "Medium",
+      "path": "medium/nearest-exit-from-entrance-in-maze.cpp",
+      "timestamp": "1786292383",
+      "syncedAt": "2026-08-09T16:59:12.014Z"
     }
   }
 }
