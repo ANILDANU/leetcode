@@ -2,7 +2,6 @@ name: LeetCode → GitHub Sync
 
 on:
   schedule:
-    # GitHub schedules are best-effort. This runs approximately every 5 minutes.
     - cron: "*/5 * * * *"
   workflow_dispatch:
 
@@ -23,17 +22,13 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: 24
-          cache: npm
+          package-manager-cache: false
 
       - name: Install dependencies
-        env:
-          NODE_AUTH_TOKEN: ""
-          NPM_TOKEN: ""
         run: |
-          rm -f ~/.npmrc
-          rm -f /home/runner/.npmrc
-          echo "registry=https://registry.npmjs.org" > ~/.npmrc
-          npm ci
+          npm config delete //registry.npmjs.org/:_authToken || true
+          npm config set registry https://registry.npmjs.org/
+          npm ci --registry=https://registry.npmjs.org/
 
       - name: Sync accepted LeetCode submissions
         env:
