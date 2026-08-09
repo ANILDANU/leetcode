@@ -26,6 +26,9 @@ jobs:
           cache: npm
 
       - name: Install dependencies
+        env:
+          NODE_AUTH_TOKEN: ""
+          NPM_TOKEN: ""
         run: |
           rm -f ~/.npmrc
           rm -f /home/runner/.npmrc
