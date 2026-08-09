@@ -22,12 +22,12 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: 24
-          package-manager-cache: false
+          cache: ""
 
       - name: Install dependencies
         run: |
-          npm config delete //registry.npmjs.org/:_authToken || true
-          npm config set registry https://registry.npmjs.org/
+          unset NPM_CONFIG_USERCONFIG
+          unset NPM_CONFIG_GLOBALCONFIG
           npm ci --registry=https://registry.npmjs.org/
 
       - name: Sync accepted LeetCode submissions
