@@ -188,6 +188,24 @@
       "path": "medium/nearest-exit-from-entrance-in-maze.cpp",
       "timestamp": "1786292383",
       "syncedAt": "2026-08-09T16:59:12.014Z"
+    },
+    "2100772822": {
+      "title": "Minimum Moves to Reach Target with Rotations",
+      "titleSlug": "minimum-moves-to-reach-target-with-rotations",
+      "language": "cpp",
+      "difficulty": "Hard",
+      "path": "hard/minimum-moves-to-reach-target-with-rotations.cpp",
+      "timestamp": "1786302475",
+      "syncedAt": "2026-08-09T19:48:42.567Z"
+    },
+    "2100794308": {
+      "title": "Minimum Cost to Make at Least One Valid Path in a Grid",
+      "titleSlug": "minimum-cost-to-make-at-least-one-valid-path-in-a-grid",
+      "language": "cpp",
+      "difficulty": "Hard",
+      "path": "hard/minimum-cost-to-make-at-least-one-valid-path-in-a-grid.cpp",
+      "timestamp": "1786304155",
+      "syncedAt": "2026-08-09T19:48:42.739Z"
     }
   }
 }
