@@ -206,6 +206,42 @@
       "path": "hard/minimum-cost-to-make-at-least-one-valid-path-in-a-grid.cpp",
       "timestamp": "1786304155",
       "syncedAt": "2026-08-09T19:48:42.739Z"
+    },
+    "2101739397": {
+      "title": "Grid Teleportation Traversal",
+      "titleSlug": "grid-teleportation-traversal",
+      "language": "cpp",
+      "difficulty": "Medium",
+      "path": "medium/grid-teleportation-traversal.cpp",
+      "timestamp": "1786376112",
+      "syncedAt": "2026-08-10T16:12:43.255Z"
+    },
+    "2101767423": {
+      "title": "Simplify Path",
+      "titleSlug": "simplify-path",
+      "language": "cpp",
+      "difficulty": "Medium",
+      "path": "medium/simplify-path.cpp",
+      "timestamp": "1786377390",
+      "syncedAt": "2026-08-10T16:12:43.711Z"
+    },
+    "2101771497": {
+      "title": "Simplify Path",
+      "titleSlug": "simplify-path",
+      "language": "cpp",
+      "difficulty": "Medium",
+      "path": "medium/simplify-path.cpp",
+      "timestamp": "1786377574",
+      "syncedAt": "2026-08-10T16:12:51.510Z"
+    },
+    "2101772346": {
+      "title": "Simplify Path",
+      "titleSlug": "simplify-path",
+      "language": "cpp",
+      "difficulty": "Medium",
+      "path": "medium/simplify-path.cpp",
+      "timestamp": "1786377613",
+      "syncedAt": "2026-08-10T16:12:56.978Z"
     }
   }
 }
