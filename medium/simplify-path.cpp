@@ -2,8 +2,8 @@
 // https://leetcode.com/problems/simplify-path/
 // Difficulty: Medium
 // Language: cpp
-// Runtime: 10
-// Memory: 23552000
+// Runtime: 11
+// Memory: 23636000
 
 class Solution {
 public:

@@ -242,6 +242,15 @@
       "path": "medium/simplify-path.cpp",
       "timestamp": "1786377613",
       "syncedAt": "2026-08-10T16:12:56.978Z"
+    },
+    "2101910466": {
+      "title": "Simplify Path",
+      "titleSlug": "simplify-path",
+      "language": "cpp",
+      "difficulty": "Medium",
+      "path": "medium/simplify-path.cpp",
+      "timestamp": "1786384742",
+      "syncedAt": "2026-08-10T19:16:46.100Z"
     }
   }
 }
