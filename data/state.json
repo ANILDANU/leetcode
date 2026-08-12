@@ -251,6 +251,24 @@
       "path": "medium/simplify-path.cpp",
       "timestamp": "1786384742",
       "syncedAt": "2026-08-10T19:16:46.100Z"
+    },
+    "2103827964": {
+      "title": "Design Circular Deque",
+      "titleSlug": "design-circular-deque",
+      "language": "cpp",
+      "difficulty": "Medium",
+      "path": "medium/design-circular-deque.cpp",
+      "timestamp": "1786517712",
+      "syncedAt": "2026-08-12T07:47:22.938Z"
+    },
+    "2103833588": {
+      "title": "Design Circular Queue",
+      "titleSlug": "design-circular-queue",
+      "language": "cpp",
+      "difficulty": "Medium",
+      "path": "medium/design-circular-queue.cpp",
+      "timestamp": "1786518008",
+      "syncedAt": "2026-08-12T07:47:23.090Z"
     }
   }
 }
